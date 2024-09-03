@@ -1,967 +1,967 @@
 ﻿translate tranditional_chinese Puro_Beginning_Talk_4ec3f431:
 
     # "Both of you are sitting in the elder's tent, the lantern on Hezzong's hand glows faintly."
-    ""
+    "你們坐在長老的帳篷裡，赫宗手上的燈籠發出微弱的光芒。"
 
 translate tranditional_chinese Puro_Beginning_Talk_8c058a9f:
 
     # hz "On the paper, it says you volunteered to be the watcher tonight."
-    hz ""
+    hz "紙上寫著你自願擔任今晚的守護者。"
 
 translate tranditional_chinese Puro_Beginning_Talk_4588662f:
 
     # "Hezzong, the elder chief of the tribe, checks the paper on his hand before looking back at you."
-    ""
+    "赫宗，部落年邁的酋長，他檢查了手上的紙，然後回頭看向你。"
 
 translate tranditional_chinese Puro_Beginning_Talk_6501c59e:
 
     # "This was meant to be a routine job, but you certainly have a different plan in mind."
-    ""
+    "這本來是例行工作，但你心裡有了不同的計畫。"
 
 translate tranditional_chinese Puro_Beginning_Talk_96a41ce8:
 
     # yu "Yes, I did."
-    yu ""
+    yu "是的，我做了。"
 
 translate tranditional_chinese Puro_Beginning_Talk_23520140:
 
     # "You nod, your eyes are fixed on the elder. A pleading gaze is all you can muster."
-    ""
+    "你點點頭，目光落在了老者的身上。你能做的就是向他投出懇求的目光。"
 
 translate tranditional_chinese Puro_Beginning_Talk_208032a5:
 
     # "The red dragon is sitting across the table, his brows are furrowed."
-    ""
+    "紅龍坐在桌子對面，他的眉頭緊鎖。"
 
 translate tranditional_chinese Puro_Beginning_Talk_1aee9e66:
 
     # "Everyone in the tribe calls him the Allfather, he has been the elder chief for as long as you can remember."
-    ""
+    "部落中的每個人都稱他為父親，從你記事起，他就一直是酋長。"
 
 translate tranditional_chinese Puro_Beginning_Talk_d6e32247:
 
     # "He is the one who taught you how to read and write, took you into his house as you help him manage the books."
-    ""
+    "他是那個教你如何閱讀和寫作的人，當你在幫他管理書籍時，他帶你進入了他的房子。"
 
 translate tranditional_chinese Puro_Beginning_Talk_caefdb77:
 
     # hz "I don't think you're ready for this, espcially after what happened to Chime."
-    hz ""
+    hz "我認為你還沒有做好準備，尤其是在發生齊門那件事之後。"
 
 translate tranditional_chinese Puro_Beginning_Talk_575a76b2:
 
     # yu "I- I am ready, Hezz."
-    yu ""
+    yu "我-我準備好了，赫茲"
 
 translate tranditional_chinese Puro_Beginning_Talk_66a31b66:
 
     # "You stutter, your voice is shaking. This is a crucial decision to make but you are determined in your path."
-    ""
+    "你結巴，聲音在顫抖。這是一個非常重要的決定，但你已經堅定的選擇了自己的道路。"
 
 translate tranditional_chinese Puro_Beginning_Talk_52cfc2ba:
 
     # hz "You understand the duty of being the tribe's watcher, right?"
-    hz ""
+    hz "你明白身為部落守護者的職責，對吧？"
 
 translate tranditional_chinese Puro_Beginning_Talk_a138c5cb:
 
     # yu "I understand."
-    yu ""
+    yu "我明白。"
 
 translate tranditional_chinese Puro_Beginning_Talk_2d915fc9:
 
     # hz "Mhmm... just to make sure, I will tell you again."
-    hz ""
+    hz "嗯...為了確定一下，我會再跟你說一次。"
 
 translate tranditional_chinese Puro_Beginning_Talk_32613232:
 
     # hz "As a watcher, you have to keep the tribe safe at night, and keep those sprites from ever entering our place."
-    hz ""
+    hz "身為守護者，你必須確保部落在夜間的安全，並阻止那些精靈進入我們的地盤。"
 
 translate tranditional_chinese Puro_Beginning_Talk_ed59b27a:
 
     # yu "I know."
-    yu ""
+    yu "我知道。"
 
 translate tranditional_chinese Puro_Beginning_Talk_c7128ba4:
 
     # "The elder reads through the paper again, before he takes another glance at you and notices your mind wandering off."
-    ""
+    "老者又讀了一遍紙，然後看了你一眼，發現你走神了。"
 
 translate tranditional_chinese Puro_Beginning_Talk_8cec094c:
 
     # "He sighs, and puts the paper down."
-    ""
+    "他嘆了口氣，放下報紙。"
 
 translate tranditional_chinese Puro_Beginning_Talk_0d5be0f2:
 
     # hz "How is the search for Chime going? I heard you guys have been looking for him for a week now."
-    hz ""
+    hz "齊門的搜尋進度如何？我聽說你們已經找他一個禮拜了。"
 
 translate tranditional_chinese Puro_Beginning_Talk_458a0813:
 
     # yu "I- I haven't found him yet."
-    yu ""
+    yu "我-我還沒找到他。"
 
 translate tranditional_chinese Puro_Beginning_Talk_8f8f8137:
 
     # "You look down at your feet, your hands are shaking."
-    ""
+    "你低下了頭，你的手在顫抖。"
 
 translate tranditional_chinese Puro_Beginning_Talk_6f800c99:
 
     # "Chime has been your best friend ever since you were young, and losing him was the last thing you want to happen."
-    ""
+    "齊門是你從小到大最好的朋友，失去他是你最不想發生的事。"
 
 translate tranditional_chinese Puro_Beginning_Talk_70ad9730:
 
     # hz "That is worrying, I didn't think he would be missing for this long."
-    hz ""
+    hz "真讓人擔心，沒想到他會失蹤這麼久。"
 
 translate tranditional_chinese Puro_Beginning_Talk_de0dcc64:
 
     # hz "People don't just disppear like that. Especially not him, he is a good kid."
-    hz ""
+    hz "人不會就這樣消失。尤其是他，他是個好孩子。"
 
 translate tranditional_chinese Puro_Beginning_Talk_9b32b899:
 
     # yu "The thing is, I saw a flickering light around our post last week, I think it was him."
-    yu ""
+    yu "問題是，上週我在公告欄周圍有閃爍的亮光，我認為是他。"
 
 translate tranditional_chinese Puro_Beginning_Talk_35356058:
 
     # hz "I see... are you sure you're not hallucinating... or dreaming? It's been a long time since you slept."
-    hz ""
+    hz "我明白了……你確定你沒出現幻覺……或是在做夢嗎？你已經有很長一段時間沒有睡覺了。"
 
 translate tranditional_chinese Puro_Beginning_Talk_158a4beb:
 
     # hz "At least that's what the folks back there told me, they are all tired after following your lead for a week."
-    hz ""
+    hz "至少那邊的人是這麼告訴我的，在跟隨你一週之後他們都累了。"
 
 translate tranditional_chinese Puro_Beginning_Talk_e0eb6ce6:
 
     # yu "I know, I understand if they withdraw from the search, but I won't quit until I find him."
-    yu ""
+    yu "我知道，如果他們退出我也能理解，但在找到他之前我不會放棄的。"
 
 translate tranditional_chinese Puro_Beginning_Talk_5a7a049f:
 
     # hz "At some point, maybe the best way ahead is to stop walking forward and think for a moment."
-    hz ""
+    hz "有時候，最好的前進方式也許就是停止前進並思考片刻。"
 
 translate tranditional_chinese Puro_Beginning_Talk_467e2e2b:
 
     # yu "I just want to find him and bring him back safe, allfather. Please, let me be the watcher for today."
-    yu ""
+    yu "我只想找到他並安全地帶他回來而已，父親。請讓我成為今天的守護者。"
 
 translate tranditional_chinese Puro_Beginning_Talk_5be17a99:
 
     # "He shakes his head, and sighs."
-    ""
+    "他搖了搖頭，並嘆了口氣。"
 
 translate tranditional_chinese Puro_Beginning_Talk_8fef3874:
 
     # hz "You have to go in alone, if you were to be the watcher today, I'm not sure anyone is available after all the turmoils they've been put through."
-    hz ""
+    hz "你需要獨自進去，如果你今天要看守，我不確定在經歷了所有的事情之後是否誰有空。"
 
 translate tranditional_chinese Puro_Beginning_Talk_754de6e7:
 
     # yu "I am aware of that, allfather."
-    yu ""
+    yu "我知道這一點，父親。"
 
 translate tranditional_chinese Puro_Beginning_Talk_02bcfcee:
 
     # hz "Is this really what you think?"
-    hz ""
+    hz "這真的是你所想的嗎？"
 
 translate tranditional_chinese Puro_Beginning_Talk_9c08697e:
 
     # hz "What if you go missing next? Where do I find someone who can manage my books?"
-    hz ""
+    hz "如果接下來你失蹤了怎麼辦？我要在哪裡才可以找到人來管理我的圖書？"
 
 translate tranditional_chinese Puro_Beginning_Talk_2bf9e618:
 
     # hz "And someone foolish enough to stay up late with me?"
-    hz ""
+    hz "還有一個傻到會陪我熬夜的人？"
 
 translate tranditional_chinese Puro_Beginning_Talk_f1a8b8bb:
 
     # "You don't know what to say, you look at the elder's eyes, and despite his chuckle, you can see the worry in his eyes."
-    ""
+    "你不知道該說什麼，看著長老的眼睛，儘管他在微笑，但你還是能看到他眼中的擔憂。"
 
 translate tranditional_chinese Puro_Beginning_Talk_7da61a4c:
 
     # "It's been a long time since he appointed you as his assistant. Apart from spending time with Chime, helping the elder was your second most treasured time to spend."
-    ""
+    "他已經很久沒有讓你當他的助手了。除了陪伴齊門之外，幫助長輩是你第二珍貴的時光。"
 
 translate tranditional_chinese Puro_Beginning_Talk_33ce0b16:
 
     # yu "I- I don't know, allfather. I just want to find Chime."
-    yu ""
+    yu "我-我不知道，父親。我只是想找到齊門。"
 
 translate tranditional_chinese Puro_Beginning_Talk_20ac27b1:
 
     # "The elder shakes his head."
-    ""
+    "老者搖了搖頭。"
 
 translate tranditional_chinese Puro_Beginning_Talk_72460c52:
 
     # hz "Perhaps, a glimpse of hope is what my little red dragon needs. Maybe you'll prove me wrong and bring him back alive."
-    hz ""
+    hz "或許，有一絲希望，這是我的小紅龍所需要的。也許你能證明我錯了並讓他活著回來。"
 
 translate tranditional_chinese Puro_Beginning_Talk_42c970f2:
 
     # "Hezzong feints a weak smile, he lowers the lantern and slowly shoves it across the table."
-    ""
+    "赫宗淺淺一笑，放下燈籠，緩緩推過桌子。"
 
 translate tranditional_chinese Puro_Beginning_Talk_9d694ff4:
 
     # hz "I am going to trust you on this. But you have to promise me you will be extra careful."
-    hz ""
+    hz "在這一點上我相信你。但你必須向我保證你會特別小心。"
 
 translate tranditional_chinese Puro_Beginning_Talk_86a6b402:
 
     # hz "Take this with you, I should be able to track you down if you get lost in the night."
-    hz ""
+    hz "帶上這個吧，如果你晚上迷路了，我應該可以找到你。"
 
 translate tranditional_chinese Puro_Beginning_Talk_bf7978dd:
 
     # yu "Thank you, Hezz."
-    yu ""
+    yu "謝謝你，赫茲。"
 
 translate tranditional_chinese Puro_Beginning_Talk_90eb4087:
 
     # "You take the lantern and put it on your side, the warmth of the lantern is strangely hot even on your hand."
-    ""
+    "你接過燈籠，放在身邊，燈籠的溫暖在手上都感覺有些奇怪的燙。"
 
 translate tranditional_chinese Puro_Beginning_Talk_3abd377e:
 
     # hz "When it's dawn, just come back safe, you don't need to stay until the morning."
-    hz ""
+    hz "天一亮，就安全的回來吧，不用留到早上。"
 
 translate tranditional_chinese Puro_Beginning_Talk_a0843e3c:
 
     # yu "Okay, allfather."
-    yu ""
+    yu "好的，父親。"
 
 translate tranditional_chinese Puro_Beginning_Talk_df857b04:
 
     # hz "That's good. Okay, then let us head out, I will show you the way."
-    hz ""
+    hz "那挺好。好吧，那我們出發吧，我為你帶路。"
 
 translate tranditional_chinese Puro_Beginning_Talk_3daf9da8:
 
     # "The allfather pushes open the door, and you follow him out."
-    ""
+    "父親推開門，你跟著他走了出去。"
 
 translate tranditional_chinese Puro_Beginning_Talk_72c947bd:
 
     # "The night is quiet, the moon is shining bright, and the stars are twinkling in the sky."
-    ""
+    "夜很靜，月光皎潔，星星在天空閃爍。"
 
 translate tranditional_chinese Puro_Beginning_Talk_0a2fbfc7:
 
     # "Everyone else is sleeping, the lifeless silence has you shiver down to the core, but Hezzong's mere presence made you feel a lot safer."
-    ""
+    "其他人都在睡覺，死氣沉沉的寂靜讓你瑟瑟發抖，但赫宗的存在讓你感覺安全多了。"
 
 translate tranditional_chinese Puro_Beginning_Talk_6dc98dde:
 
     # "Hezzong whistles softly as you follow close behind, the torch in his hand is lighting up the path just enough."
-    ""
+    "赫宗輕聲吹口哨，你緊緊跟他在後，他手中的火把剛好照亮了道路。"
 
 translate tranditional_chinese Puro_Beginning_Talk_90dc49f3:
 
     # "You hold your own latern tightly, your heart is beating faster than your feet, your fear of being stranded haunts you again."
-    ""
+    "你緊緊抓住自己的燈籠，你的心跳比腳步還快，你對被困住的恐懼再次圍繞著你。"
 
 translate tranditional_chinese Puro_Beginning_Talk_55f8ada7:
 
     # "Catching up with Hezzong, you follow him into the forest."
-    ""
+    "跟上赫宗後，你跟著他走進了森林。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_435c0476:
 
     # yu "Hezz, how's the tribe going lately?"
-    yu ""
+    yu "赫茲，部落最近怎麼樣？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_f876c6af:
 
     # hz "Well, we're doing fine. The harvest is good this year, and we have enough food to last us through the winter."
-    hz ""
+    hz "嗯，我們過得很好。今年的收成很好，我們有著足夠的食物來過冬。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_1143a178:
 
     # hz "But, we're still missing Chime, and that's a big problem."
-    hz ""
+    hz "但是，我們仍然缺少齊門，這是一個大問題。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_40f93814:
 
     # hz "Afterall, he is not one who wanders off without telling anyone."
-    hz ""
+    hz "畢竟，他不是一個一聲不吭就離開的人。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_849afa84:
 
     # hz "Shudo and Pairon were worried pant-less, especially after you told them you had to get in the forest by yourself."
-    hz ""
+    hz "舒篤和帕里恩擔心得都沒穿內褲，尤其是在你告訴他們你要自己進入森林之後。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_00f15793:
 
     # yu "I'm sorry Hezz, I didn't mean to worry them. But they know I will keep searching while they rest."
-    yu ""
+    yu "抱歉赫茲，我不是故意讓他們擔心的。但他們知道我依然會在他們休息的時候繼續尋找。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_dffae502:
 
     # hz "Hmm, don't worry about it, I will tell them you're safe when you come back."
-    hz ""
+    hz "嗯，別擔心，等你回來時我會告訴他們你很安全。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_1a1af4f3:
 
     # hz "Look, we are not a big tribe, we need to look for each other's back, especially in times like this."
-    hz ""
+    hz "看著，我們不是一個大部落，我們需要尋找彼此的依靠，尤其是在這樣的時候。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_6df21e82:
 
     # yu "I know, I know. I just want to find Chime and bring him back."
-    yu ""
+    yu "我知道，我知道。我只是想找到齊門並把他帶回來。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_bc7e7f02:
 
     # hz "You know, I'm worried about you too. You haven't slept for a week, and you look like a mess."
-    hz ""
+    hz "你知道嗎? 我也很擔心你。你已經一週沒睡了，看起來一團糟。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_0d58f772:
 
     # "You look down at your feet, maybe he's right, but what is the alternative... do you just give up on the search."
-    ""
+    "你低頭看著自己的腳，也許他是對的，但還有什麼選擇呢……你就這樣放棄尋找嗎？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_3feb7cac:
 
     # "You don't ever want to think about living in a world without your best friend, even at the cost of wearing out your body bit by bit."
-    ""
+    "你無法想像永遠生活在一個沒有你最好的朋友的世界裡，即使這是以一點點磨損你的身體為代價。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_2748387b:
 
     # yu "Would he be okay? I mean, if I don't find him now, what's the chance of him... ever coming back."
-    yu ""
+    yu "他會沒事嗎？我的意思是，如果我現在不找他，他…回來的機會有多大。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_c7424302:
 
     # hz "I- uh... Well."
-    hz ""
+    hz "我-呃...好吧。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_06aee3a8:
 
     # hz "I will be honest with you, the chance is only getting lower and lower as time passes."
-    hz ""
+    hz "實話說，隨著時間的推移，機會只會越來越低。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_0ba95c65:
 
     # hz "But we aren't giving up on him, our search party hasn't stopped yet, and we will keep looking for him."
-    hz ""
+    hz "但我們沒有放棄他，我們的搜尋隊還沒有停止，我們會繼續尋找他。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_591f9294:
 
     # yu "Okay."
-    yu ""
+    yu "好。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_3aaf063d:
 
     # yu "Hezz, do you know why... Chime's missing?"
-    yu ""
+    yu "赫茲，你知道為什麼……齊門會失蹤嗎？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_56f3617b:
 
     # hz "There is no way I can know, but I have a feeling that it's not a good sign."
-    hz ""
+    hz "我無從得知，但我有種感覺，這不是個好的預兆。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_4a280ab3:
 
     # yu "Why are you saying that?"
-    yu ""
+    yu "你為什麼會這麼說？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_c014d137:
 
     # hz "I only just recalled now, but the day before he went missing, he told me about a pair of eyes while we were hunting."
-    hz ""
+    hz "我現在才想起來，在他失蹤的前一天，他告訴我我們打獵時有一雙眼睛。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_bb469eb3:
 
     # hz "He said there were horns behind the eyes, and it was staring at him from the bushes."
-    hz ""
+    hz "他說眼睛後面有角，它從灌木叢中盯著他。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_79d0db84:
 
     # hz "I didn't think much of it at the time, so I told him, well. Maybe it's your friend messing with you."
-    hz ""
+    hz "我當時也沒多想，就跟他說，好吧。也許這只是朋友之間的玩笑。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_0a14b3ae:
 
     # hz "But now that I think of it, it's a little worrying."
-    hz ""
+    hz "但現在想起來，卻又有些擔心。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_28acdb1d:
 
     # yu "Hezz, couldn't you have told me this earlier?"
-    yu ""
+    yu "赫茲，你就不能早點告訴我嗎？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_3c97bf31:
 
     # hz "I didn't think it was important... I thought it was you or someone else, after all, horns aren't something rare in our tribe."
-    hz ""
+    hz "我覺得這不重要……我還以為是你或別人呢，畢竟角在我們部落裡不是什麼稀罕東西。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_8182700b:
 
     # yu "W-what if he's kidnapped by that pair of eyes?"
-    yu ""
+    yu "萬、萬一他被那雙眼睛綁架了怎麼辦？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_67f51c85:
 
     # hz "Or, it can still be something else innocent, and uhm... he just got lost in the forest."
-    hz ""
+    hz "或者，它仍然可能是其他無辜的東西，呃……他只是在森林裡迷路了。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_dad363b4:
 
     # yu "After you told me this, I'm not sure if I can believe he {i}just{/i} got lost."
-    yu ""
+    yu "在你告訴我這些之後，我不確定我是否可以相信他{i}只是{/i}迷路了。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_e5689667:
 
     # hz "Maybe you are right."
-    hz ""
+    hz "也許你是對的。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_0e5be6e7:
 
     # hz "Didn't you mention having seen a glowing light somewhere?"
-    hz ""
+    hz "你沒有在某處看過發光嗎？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_1c496b36:
 
     # yu "I thought it was Chime, but I'm not sure now."
-    yu ""
+    yu "我以為那是齊門，但現在不確定了。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_3fa769d8:
 
     # hz "Well, maybe it's someone else's."
-    hz ""
+    hz "嗯，也許是別人的。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_6cb3fe54:
 
     # hz "If he's kidnapped, then we have to track that person down, somehow. But we have no trails to start off of."
-    hz ""
+    hz "如果他被綁架了，那麼我們就必須想辦法找到那個人。但我們沒有任何突破點。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_3ac77472:
 
     # yu "You're right."
-    yu ""
+    yu "你是對的。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_f27be97b:
 
     # yu "Hezz, what do I need to do as a watcher?"
-    yu ""
+    yu "Hezz，身為守護者的我需要做什麼？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_2616a8b3:
 
     # hz "Well, as a normal watcher, you just need to keep the tribe safe at night, and alert us if anything suspicious happen."
-    hz ""
+    hz "好吧，作為一名普通的守護者，你只需要在夜間保證部落的安全，並在發生任何可疑情況時通知我們即可。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_48711521:
 
     # hz "Usually, we assign two watchers every night to perform this job, but they don't seem to be available tonight."
-    hz ""
+    hz "通常，我們每晚都會指派兩名看守人員來執行這項工作，但他們今晚似乎沒有空。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_ff260648:
 
     # hz "It's a routine job, but it's important. You know, we don't want those sprites to come in and steal our food."
-    hz ""
+    hz "這是一項例行公事，但卻很重要。你知道的，我們不希望那些精靈進來偷我們的食物。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_bff81938:
 
     # yu "What should I do if I see one?"
-    yu ""
+    yu "如果我看到其中一個，我該怎麼辦？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_3de55463:
 
     # hz "Fight, of course. You have a sword, right?"
-    hz ""
+    hz "當然是戰鬥。你有一把劍，對吧？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_ec9559e5:
 
     # yu "Yes, I do. But it's not very sharp."
-    yu ""
+    yu "對，我有。但它不是很鋒利。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_9455fb67:
 
     # hz "It's fine, it's not like you're going to fight a demon or something."
-    hz ""
+    hz "沒關係，又不是要跟惡魔什麼的戰鬥。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_056070d0:
 
     # yu "Well I hope not."
-    yu ""
+    yu "好吧，我希望不會。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_6294513b:
 
     # hz "If you lost your sword, just raise your arm, puff out your chest and make a loud noise. These sprites are not very brave, they will scramble at the slightest bit of sound."
-    hz ""
+    hz "如果你丟了劍，只要舉起手臂，挺起胸膛，發出一聲巨響。這些精靈膽子不大，稍有聲響就會亂竄。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_8f256263:
 
     # "Hezzong demonstrates as he pulls his shoulders back, showing off his huge chest muscles in confidence."
-    ""
+    "赫宗示範了他的肩膀向後拉，自信地展示了他巨大的胸肌。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_2d9914e4:
 
     # hz "See, that's pretty easy."
-    hz ""
+    hz "看，這多麼簡單。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_53f672c4:
 
     # "He smirks at your blushed gaze, obviously proud of his act having an opposite effect on you."
-    ""
+    "他對著臉紅的你傻笑，顯然為他的行為讓你產生了相反的反映而感到自豪。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_ab555e41:
 
     # yu "Well..."
-    yu ""
+    yu "好..."
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_e74dbc3c:
 
     # yu "Who are those sprites, actually?"
-    yu ""
+    yu "那些精靈到底是誰？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_e7bfe6a1:
 
     # "The elder shrugs, returning to his normal position, but his chest is still puffed out."
-    ""
+    "老者聳了聳肩，恢復了原來的姿勢，但胸口還依然挺著。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_5759bab5:
 
     # hz "Wandering pests, nothing more. They are not dangerous, but they can be annoying."
-    hz ""
+    hz "流浪害蟲，僅此而已。它們並不危險，但可能很煩人。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_a7cf4b21:
 
     # yu "I see."
-    yu ""
+    yu "我知道了。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_ab851ef2:
 
     # yu "You know, I haven't seen one before, so it's all new to me."
-    yu ""
+    yu "你知道，我從未見過，這對我來說都是新事物。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_d95b16c5:
 
     # hz "That's because the watchers are doing their job. Wouldn't you prefer that?"
-    hz ""
+    hz "那是因為守護者正在做他們的工作。你不喜歡嗎？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_738a31d1:
 
     # yu "You are right, allfather."
-    yu ""
+    yu "你是對的，父親。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_ddd1348d:
 
     # yu "Hezz, maybe I need to take a breather tomorrow."
-    yu ""
+    yu "赫茲，也許我明天需要休息一下。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_98d82c67:
 
     # hz "What? Why?"
-    hz ""
+    hz "什麼？為什麼？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_162406f0:
 
     # yu "I- I am still looking for Chime, just need some extra time to sleep."
-    yu ""
+    yu "我、我還在找齊門，只是需要多一點時間來睡覺。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_80ba5239:
 
     # hz "You know, I can't do all the work by myself, right?"
-    hz ""
+    hz "你知道，我一個人不可能完成所有的工作，對嗎？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_f5c54ff4:
 
     # yu "Yeah, but you did, last time I checked you finished all the books and accounts by yourself while I was away."
-    yu ""
+    yu "對，但你做到了，上次我檢查的時候，你趁我不在的時候自己完成了所有的賬簿和賬目。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_0f4867aa:
 
     # hz "But I can't finish all of these all the time, that's why I hired you."
-    hz ""
+    hz "但我無法一直完成所有這些，這就是我僱用你的原因。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_554c38e4:
 
     # yu "But you did! You are perfectly capable to do so."
-    yu ""
+    yu "但你做到了！你完全有能力這樣做。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_e5ae3808:
 
     # hz "Yeah, you're right."
-    hz ""
+    hz "是，你是對的。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_c6533285:
 
     # hz "Hey, how about this, I'll be honest with you. I care more about you than the ever-stacking books, I just want to keep you around while you're looking for Chime."
-    hz ""
+    hz "嘿，這個怎麼樣，我跟你說實話。我比那些堆積如山的書更關心你，我只想在你尋找齊門的時候把你留在我身邊。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_b4404d94:
 
     # hz "Perhaps, you can use my bed if you happen to be tired after the post. It's the closest from the tower, and I can keep an eye on you."
-    hz ""
+    hz "或許，如果你發文後累了，可以使用我的床。這是離塔最近的地方，我可以看著你。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_83da2bb5:
 
     # hz "And, I will make sure you get those extra sleep tomorrow. No need to worry about the books."
-    hz ""
+    hz "而且，我會確保你明天得到額外的睡眠。無需擔心那些書。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_eb4d3c79:
 
     # yu "Really? Thank you, Hezzong."
-    yu ""
+    yu "真的? 謝謝你，赫宗。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_c0483b72:
 
     # hz "I hope you don't mind sharing a bed with an old white-bearded dragon, or having to make it through my snores."
-    hz ""
+    hz "我希望你不介意和老龍同床共枕，或是忍受我的鼾聲。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_82c2724d:
 
     # hz "I will try to keep it down, but I can't promise anything."
-    hz ""
+    hz "我會盡力保持低調，但我不能保證任何事情。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_a11ed5ff:
 
     # yu "You're my allfather afterall, of course I don't mind. I'm already grateful to have a warm bed."
-    yu ""
+    yu "你畢竟是我的父親，我當然不介意。我已經很慶幸擁有一張溫暖的床了。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_4973b1f6:
 
     # hz "Good, then it's settled."
-    hz ""
+    hz "好，那就這麼定了。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_126c5452:
 
     # yu "Hezzong, what should I do right now?"
-    yu ""
+    yu "赫宗，那我現在要做什麼？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_72969426:
 
     # hz "Just try to take a look at the crate over there."
-    hz ""
+    hz "試著看看那邊的箱子。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_fa3d48b6:
 
     # msg "Hint: Try to use Space, or the Interact button on the screen to interact with objects."
-    msg ""
+    msg "提示：嘗試使用空白鍵或螢幕上的互動按鈕與物件互動。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_126c5452_1:
 
     # yu "Hezzong, what should I do right now?"
-    yu ""
+    yu "赫宗，那我現在要做什麼？"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_18c67447:
 
     # hz "You should pick up the turnips over there, and bring them into the crate."
-    hz ""
+    hz "你應該把那邊的蘿蔔撿起來，放進箱子裡。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_a08eae45:
 
     # msg "Hint: Try to use {i}E{/i}, or the hand button on the screen to pick up or drop objects."
-    msg ""
+    msg "提示：嘗試使用 {i}E{/i} 或螢幕上的手形按鈕來拾取或放下物體。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_05146825:
 
     # yu "That's it for now, Hezz."
-    yu ""
+    yu "現在就這樣了，赫茲。"
 
 translate tranditional_chinese Hezzong_Puro_Forest_Dialogue_30664214:
 
     # hz "Alright, then let's keep up with the training."
-    hz ""
+    hz "好吧，那我們就繼續訓練吧。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_371d5f7a:
 
     # "You enter the watchtower and climb upstairs, passing by the bell that Hezzong mentioned about."
-    ""
+    "你進入瞭望樓，爬上樓，經過了赫宗提到的鐘聲。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_38055bf5:
 
     # "On the top, you can see the entire tribe, and the forest surrounding it."
-    ""
+    "在山頂，你可以看到整個部落，以及周圍的森林。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_31d47b24:
 
     # yu "I guess this way I'll know it when the light comes back again."
-    yu ""
+    yu "我想這樣當有光線照來時我就會知道。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_6db723d3:
 
     # "You have been waiting for a while, but nothing seems to be happening."
-    ""
+    "你已經等了有一段時間了，但似乎什麼事都沒有發生。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_aeefaad6:
 
     # "It's a little boring, but you have to keep your eyes open somehow..."
-    ""
+    "有點無聊，但你必須保持清醒…"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_3f780865:
 
     # "You look around, and see the lantern Hezzong gave you."
-    ""
+    "你環顧四周，看到赫宗給你的燈籠。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_24d22c59:
 
     # yu "Ring the bell... when something happens... right? Allfather said so."
-    yu ""
+    yu "有事發生時...搖鈴...對嗎？父親是這麼說的。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_a7a36faa:
 
     # yu "No, allfather is always right, don't you dare to doubt him."
-    yu ""
+    yu "不，父親永遠是對的，不要懷疑他。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_7bd22cd1:
 
     # "Bored as you are, you start to play with the lantern, and the bell."
-    ""
+    "儘管你很無聊，你還是開始玩燈籠和鈴鐺。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_41c6f2bc:
 
     # yu "Maybe I should go down and take a closer look, if there is light wouldn't the trees have covered it...? I won't be able to see from here."
-    yu ""
+    yu "也許我應該下去仔細看看，如果有光的話，樹不會遮住它嗎…？從這裡我會看不到。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_b4b85a43:
 
     # yu "But allfather said I should stay here, and I should stay here."
-    yu ""
+    yu "但父親說我應該留在這裡，我應該留在這裡。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_dd85d98d:
 
     # "Under the moonlight, you can see the forest, and the trees are swaying in the wind."
-    ""
+    "月光下，你可以看見森林，還有樹木在隨風搖曳。"
 
 translate tranditional_chinese Puro_Get_Onto_Watchtower_1ea660fd:
 
     # "You can hear the sound of the leaves rustling, and the wind is blowing through the trees."
-    ""
+    "你可以聽到樹葉沙沙作響的聲音，風吹過樹林。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_5d15684f:
 
     # "You can't help but think about Chime, and how he's doing right now."
-    ""
+    "你會情不自禁地想起齊門，以及他現在在做什麼。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_4a59f4f2:
 
     # "Everything just reminds you of him, the games you used to play together, the stories he used to tell you, and the way he used to smile."
-    ""
+    "一切都會讓你想起他，你們曾經一起玩的遊戲，他曾經跟你說的故事，還有他曾經微笑的方式。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_102d5eee:
 
     # "You miss him, and you want to find him, but you don't know where to start. You are afraid that you might never see him again."
-    ""
+    "你想念他，你想找到他，但你不知道該從哪裡開始。你害怕你可能再也見不到他了。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_3c1359dc:
 
     # "That thought is unbearable, maybe it's the exact reason why you have not slept for days."
-    ""
+    "這種想法令人難以忍受，也許這就是你幾天沒有睡覺的確切原因。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_3a565242:
 
     # "You nudge at the skull necklace that he gave you, and it gives you a little bit of comfort to make it through the night."
-    ""
+    "你輕輕碰了碰他送給你的骷髏項鍊，它給了你一點安慰，讓你度過了這個夜晚。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_95ce2484:
 
     # "Maybe you should have accepted Hezzong's offer to sleep in his bed."
-    ""
+    "也許你應該接受赫宗的提議，睡在他的床上。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_c273027f:
 
     # "How would it feel to be in his bed, and to be held by your own elder?"
-    ""
+    "躺在他的床上，被自己的長輩抱著，會有什麼樣的感覺？"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_25522281:
 
     # "He has always been fond of you, and lately, he has been more caring than usual."
-    ""
+    "他一直很疼愛你，最近，他比平常更關心你。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_e52e0569:
 
     # "Wouldn't you be a jerk to reject that old man? The way he's been worked up about you, and Chime, it's never seen on other people."
-    ""
+    "你拒絕那個老頭不是個混蛋嗎？他對你和奇姆如此關照，這在其他人身上是從未有過的。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_916c7962:
 
     # "Plus, who would not want a huge, warm dragon pillow to hug through the night..."
-    ""
+    "另外，誰不想要一個巨大而溫暖的龍抱枕來抱整個夜晚..."
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_ddae7f28:
 
     # "You should probably sleep, you are tired after all."
-    ""
+    "你也許該睡了，畢竟你累了。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_ab2a3688:
 
     # "It's perfect for a full night's sleep, but you have to find Chime, and you can't sleep until you find him."
-    ""
+    "這是非常適合睡一整夜的夜晚，但你必須找到齊門，並且在找到他之前你無法入睡。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_e24a6281:
 
     # "But... you are so tired, and you can't keep your eyes open, they are too dry."
-    ""
+    "但是……你太累了，眼睛睜不開，他們太重了。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_c3e731bf:
 
     # "You decide to take a nap, and you lay down on the cold floor on top of the tower."
-    ""
+    "你決定小睡一會兒，然後躺在塔頂冰冷的地板上。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_a0b28009:
 
     # yu "Just a little nap, I won't sleep for long."
-    yu ""
+    yu "只是小睡一會兒，我不會睡太久。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_88d52214:
 
     # "As soon as you finish your sentence, you have already fallen asleep."
-    ""
+    "話剛說完，你就已經睡著了。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_43a3e05c:
 
     # yu "Ahhh!"
-    yu ""
+    yu "啊!"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_8f1096db:
 
     # "You decide to make it through, and you keep your eyes open."
-    ""
+    "你決定挺過去，並睜大眼睛。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_94f287a8:
 
     # "There is no way you are sleeping, you have to fi-"
-    ""
+    "你不可以睡覺，你必須──"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_3690c817:
 
     # "You fell asleep, right on the table."
-    ""
+    "你就趴在桌上睡著了。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_43a3e05c_1:
 
     # yu "Ahhh!"
-    yu ""
+    yu "啊!"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_a764f35f:
 
     # "Shaking away your thoughts, you look around, trying to spot anything suspicious."
-    ""
+    "甩掉雜念，你環顧四周，試圖發現任何可疑的地方。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_c8b4dc59:
 
     # "Suddenly a light flickers in the distance, and you can see it from the tower."
-    ""
+    "突然遠處有一道光閃爍，從塔上就能看到。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_1a077296:
 
     # "It's not far from the tower, maybe if you run down right now, you can catch it."
-    ""
+    "距離塔不遠，如果你現在跑下去，也許就能抓住它。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_bc7f5c34:
 
     # "But you have to ring the bell, and you have to stay here. Just like what Hezzong said."
-    ""
+    "但你必須按鈴，而且你必須留在這裡。正如赫宗所說。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_5e5cf3f7:
 
     # "You sprint down the tower, carrying Hezzong's lantern with you and run towards the flickering light, leaving the bell behind."
-    ""
+    "你帶著赫宗的燈籠衝下塔樓，朝著閃爍的燈光跑去，把鐘留在了身後。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_b84ce96a:
 
     # yu "Sorry Hezzong, it might be Chime..."
-    yu ""
+    yu "對不起赫宗，那可能是齊門…"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_2350fc40:
 
     # "You run through the forest, and you can see the light getting closer and closer."
-    ""
+    "你穿過森林，你可以看到光越來越近。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_70fdbfef:
 
     # "It's not long before you find the source of the light, and you can see a figure standing in front of you."
-    ""
+    "沒多久，就找到了光源，你看到一道人影站在自己面前。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_f2f76917:
 
     # yu "Chime...? Is that you?"
-    yu ""
+    yu "齊門...？是你嗎？"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_be943e1d:
 
     # "You can see the shadow of a horn slowly turns into a pair of antlers..."
-    ""
+    "可以看到原本只有一個角的影子慢慢變成了一對鹿角..."
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_51a7fc69:
 
     # "You run down the tower, and ring the bell as loud as you can."
-    ""
+    "你跑回塔樓，盡可能大力地搖鈴。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_3d3169e1:
 
     # "Suddenly, something is lit up in the tribe, it seems your strategy is working."
-    ""
+    "突然，部落裡有東西亮起來，看來你的策略正在發揮作用。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_b3057f33:
 
     # "M-maybe they can catch Chime now, or the culprit."
-    ""
+    "也-也許他們現在就能抓住齊門，或是罪魁禍首。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_ce29e3e3:
 
     # "You go back a step to take a look through the windows, but, there's something missing."
-    ""
+    "你退後一步，透過窗戶往外看，卻發現少了點什麼。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_295ef644:
 
     # "The light is gone, you can't see it anymore."
-    ""
+    "光消失了，你看不到任何光。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_61f36d3c:
 
     # "You scratch your head, and you can't help but feel a little bit of regret."
-    ""
+    "你撓了撓頭，不禁感到一絲遺憾。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_5e69f5c0:
 
     # yu "M-maybe I should have chased it, what if it was Chime."
-    yu ""
+    yu "或-或許我應該去追它，如果那是齊門呢。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_88d32ee6:
 
     # "You go downstairs to check if there's any remaining light, and suddenly, something is awry."
-    ""
+    "你下樓檢查是否還有光，突然發現有些不對勁。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_84136f0f:
 
     # "You can hear the sound of dirts and leaves being kicked up, and you can feel something pushing against you."
-    ""
+    "您可以聽到泥土和樹葉被踢起的聲音，並且可以感覺到有東西在推你。"
 
 translate tranditional_chinese Puro_Watchtower_Thoughts_2d966d51:
 
     # yu "Huh?"
-    yu ""
+    yu "啊?"
 
 translate tranditional_chinese Encountering_Moine_cdc9131a:
 
