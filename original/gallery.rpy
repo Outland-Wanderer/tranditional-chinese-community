@@ -1,4 +1,4 @@
-﻿translate tranditional_chinese strings:
+﻿translate traditional_chinese strings:
 
     old "{color=#000}Losing in Slime Battle{/color}"
     new ""
