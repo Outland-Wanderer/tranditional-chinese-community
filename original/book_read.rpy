@@ -1,4 +1,4 @@
-﻿translate tranditional_chinese strings:
+﻿translate traditional_chinese strings:
 
     old "{i}Seb's Accounts{/i}"
     new ""

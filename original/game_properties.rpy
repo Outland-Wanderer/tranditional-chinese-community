@@ -1,9 +1,9 @@
-﻿translate tranditional_chinese after_load_7a256475:
+﻿translate traditional_chinese after_load_7a256475:
 
     # "Hey there! Here's a reminder that the protagonist's sprite is currently in the progress of redesign! You will see new designs as default while the rest of other content will be updated alongside! Thank you so much again~"
     ""
 
-translate tranditional_chinese strings:
+translate traditional_chinese strings:
 
     old "You"
     new ""

@@ -1,9 +1,9 @@
-﻿translate tranditional_chinese Cauldron_Screen_Loop_b5861fa9:
+﻿translate traditional_chinese Cauldron_Screen_Loop_b5861fa9:
 
     # "You've successfully increased [selected_recipe.name!t]'s Level!"
     ""
 
-translate tranditional_chinese strings:
+translate traditional_chinese strings:
 
     old "Inventory"
     new ""
